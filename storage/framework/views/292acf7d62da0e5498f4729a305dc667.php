@@ -1,0 +1,1 @@
+<a href="/home">Home</a><?php /**PATH C:\laragon\www\Projek1\resources\views/hitung.blade.php ENDPATH**/ ?>
